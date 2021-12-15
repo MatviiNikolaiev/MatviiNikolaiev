@@ -1,6 +1,6 @@
 ### React / Web3 Blockchain Developer
 
-- 👋 Hi, I’m @MatviiNikolaiev
+- 👋 Hi, I’m Matvii Nikolaiev.
 <br>
 I have extensive 3+ years of experience in Javascript, React, Node, MySQL, Mongodb, GraphQL as a full stack developer.<br>
 I also have experience with Blockchain and Ethereum Dapp and smart contract as well.<br>
